@@ -1,11 +1,11 @@
 Hi there, I'm Matthias Dunlap
 
-I'm a dual major in Computer Science and Business, currently diving deep into Java programming. 
+I'm a dual major in Communications and Business,Minoring in Cyber Security. Currently diving deep into Java programming. 
 I’m always exploring new technologies and working on projects that fuel my creativity.
 
 Current Projects:
 - RitesBot: Developing a Discord bot to enhance community engagement.
-- Shout out to InfiniBot, go use it!!!(I'm not affiliated, it's just a really good bot.)
+- Shout out to InfiniBot, go use it!!!
 
 Interests:
 - Programming: I’m currently learning Java, but I’m always open to expanding my skillset.
