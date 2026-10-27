@@ -1,22 +1,55 @@
-Hi there, I'm Matthias Dunlap
+# Hey, I'm Matthias 👋
 
-I'm a dual major in Communications and Business,Minoring in Cyber Security. Currently diving deep into Java programming. 
-I’m always exploring new technologies and working on projects that fuel my creativity.
+**Developer • Builder • Curious by nature**
 
-Current Projects:
-- RitesBot: Developing a Discord bot to enhance community engagement.
-- Shout out to InfiniBot, go use it!!!
+Welcome to my corner of GitHub.
 
-Interests:
-- Programming: I’m currently learning Java, but I’m always open to expanding my skillset.
-- Writing: Passionate about poetry; I’ve even published a book on Amazon!
+I'm passionate about technology, building useful things, exploring new ideas, and learning through experimentation. This is where I share projects, document what I'm working on, and occasionally turn an idea into something real.
 
-Current Focus:
-Right now, I’m focused on college life, balancing my academic responsibilities with personal projects.
+🌐 **Website:** [RitesDev](https://ritesdev.dev/)  
+✍️ **Blog:** [Dev Blog](https://ritesdev.dev/blog/)  
+💻 **GitHub:** [@Rites Studio](https://github.com/MatthiasMortimer)
 
-Contact Me:
-- Email: matthiasdunlap007@gmail.com
-- Discord: matthiasdunlap007
+---
+
+### 🚀 What I'm About
+
+- 🛠️ **Building** — Turning ideas into working projects, tools, and experiments.
+    
+- 🧠 **Learning** — Exploring technologies, improving my skills, and challenging myself.
+    
+- 📖 **Documenting** — Sharing discoveries, lessons learned, and technical insights.
+    
+- 🌱 **Growing** — Always finding something new to understand, create, or improve.
+    
+
+### 🔭 What You'll Find Here
+
+My repositories are a mix of practical projects, experiments, personal interests, and things I've built along the way.
+
+Some are polished. Others are works in progress. All of them are part of the process.
+
+### ✍️ Writing & Sharing
+
+I also write at [**Blog Rites**](https://ritesdev.dev/blog/), where I share thoughts, projects, experiments, and things I discover along the way.
+
+### 📊 GitHub Activity
+
+  
+
+  
+
+---
+
+### 🤝 Connect
+
+Have an idea, a suggestion, or something interesting to share? Feel free to explore my repositories, open an issue, or start a conversation.
+
+[**Website**](https://ritesdev.dev/) **·** [**Blog**](https://ritesdev.dev/blog/) **·** [**GitHub**](https://github.com/MatthiasMortimer)
+
+---
+
+_Stay curious. Keep building._
 
 <!---
 MatthiasMortimer/MatthiasMortimer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
